@@ -1,0 +1,9 @@
+﻿author = 不是我！
+version = 0.1.1
+displayName = 邪魅一笑
+homepage = https://www.baidu.com
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Terraria.Localization.Content.zh-Hans.Items.json
+includePDB = true
